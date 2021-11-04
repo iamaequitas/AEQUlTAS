@@ -8,6 +8,8 @@ One day I started learning software as an enthusiast, and for as long as I can r
 
 <img src="https://komarev.com/ghpvc/?username=iamaequitas&label=Profile%20Viewers&color=37fa3f" alt="iamaequitas" />
 
+![infinityayraç](https://i.hizliresim.com/ewg2ul7.png)
+
 <p align="center">
 <a href="https://twitter.com/iamaequitas" target"blank_"><img src="https://img.shields.io/badge/twitter%20-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://instagram.com/mehnetbora" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
