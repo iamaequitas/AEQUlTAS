@@ -12,6 +12,6 @@ One day I started learning software as an enthusiast, and for as long as I can r
 
 <a href="https://github.com/iamaequitas">
 <img src="https://github-readme-stats.vercel.app/api?username=iamaequitas&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamaequitas&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vision&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaequitas&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
 </a>
