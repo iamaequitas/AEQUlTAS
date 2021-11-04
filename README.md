@@ -1,4 +1,4 @@
-##Merhaba dostlarım ben aequitas 🏴
+#Merhaba dostlarım ben aequitas 🏴
 
 <img src="https://komarev.com/ghpvc/?username=iamaequitas&label=Profile%20Viewers&color=37fa3f" alt="iamaequitas" />
 
