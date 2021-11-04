@@ -6,10 +6,6 @@
 
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
-- Twitter: [@iamaequitas](https://twitter.com/iamaequitas)
-- Instagram: [@mehnetbora](https://instagram.com/mehnetbora?utm_medium=copy_link)
-- YouTube: [@Mehmet Bora](https://www.youtube.com/channel/UCcR9oWNs3frKAgTxiCl_NJA)
-
 <p align="center">  
 <a href="https://twitter.com/iamaequitas" target"blank_"><img src="https://img.shields.io/badge/twitter%20-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://instagram.com/mehnetbora" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
