@@ -6,7 +6,7 @@
 
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
-![aequitasbanner](https://i.hizliresim.com/q1pmqrn.jpg)
+[aequitasbanner](https://i.hizliresim.com/q1pmqrn.jpg)
 
 <p align="center">
 <a href="https://twitter.com/iamaequitas" target"blank_"><img src="https://img.shields.io/badge/twitter%20-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
