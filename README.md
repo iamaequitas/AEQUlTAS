@@ -15,4 +15,4 @@ One day I started learning software as an enthusiast, and for as long as I can r
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaequitas&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaequitas&layout=compact&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
-<img src="https://komarev.com/ghpvc/?username=iamaequitas&label=Profile%20Viewers&color=df761c" alt="iamaequitas" />
+<p><img src="https://komarev.com/ghpvc/?username=iamaequitas&label=Profile%20Viewers&color=df761c" alt="iamaequitas" />
