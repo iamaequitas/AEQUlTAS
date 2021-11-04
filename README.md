@@ -15,7 +15,9 @@ One day I started learning software as an enthusiast, and for as long as I can r
 
 ![infinityayraç](https://i.hizliresim.com/ewg2ul7.png)
 
-<p align="center">
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaequitas&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaequitas&layout=compact&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=iamaequitas&label=Profil Ziyaretleri&theme=nord&hide_border=true&bg_color=0d1117&color=df761c">
