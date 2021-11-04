@@ -1,8 +1,8 @@
-###Merhaba dostlarım ben aequitas 🏴
+##Merhaba dostlarım ben aequitas 🏴
 
 <img src="https://komarev.com/ghpvc/?username=iamaequitas&label=Profile%20Viewers&color=37fa3f" alt="iamaequitas" />
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/282238108739567647?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/577589971658211329)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/577589971658211329?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/577589971658211329)
 
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
