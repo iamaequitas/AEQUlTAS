@@ -1,6 +1,5 @@
 ##Merhaba dostlarım ben aequitas 🏴
 
-<div align="center">
 <a href="https://discord.com/users/577589971658211329" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/577589971658211329/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
 
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
